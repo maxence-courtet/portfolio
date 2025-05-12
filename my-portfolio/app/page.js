@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import EmailSection from "./components/EmailSection";
 import AchievementsSection from "./components/AchievementSection";
 
+
 export default function Home() {
   return (
       <main className="flex min-h-screen flex-col bg-[#121212]">
@@ -14,7 +15,6 @@ export default function Home() {
           <HeroSection/>
           <AchievementsSection/>
           <AboutSection/>
-          <ProjectsSection/>
           <EmailSection />
         </div>
         <Footer/>

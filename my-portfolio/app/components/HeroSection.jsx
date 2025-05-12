@@ -38,7 +38,7 @@ const HeroSection = () =>{
                                     2500,
                                     'An EPFL/ETHZ Alumni',
                                     2500,
-                                    'Analytical',
+                                    'Passionate about new technologies',
                                     2500,
                                     'Data-Driven',
                                     2500,
