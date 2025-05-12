@@ -11,9 +11,13 @@ const navLinks = [
     path: "#about",
   },
   {
-    title: "Contact",
+    title: "Contact Me",
     path: "#contact",
   },
+  {
+      title: "Talk to my AI agent",
+      path: "#contact",
+    },
 ];
 
 const Navbar = () => {
